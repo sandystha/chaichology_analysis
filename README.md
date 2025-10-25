@@ -56,4 +56,4 @@ This project demonstrates how **SQL skills can be applied to real-world business
 
 ---
 
-## Folder Structure
+
